@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.devops.example.AppTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.devops.example.AppTest" time="0.038" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstsimpleapp\target\test-classes;C:\Users\Sabeshragav\Stack\Devops\maven\myfirstsimpleapp\target\classes;C:\Users\Sabeshragav\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.class.path" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstapp\target\test-classes;C:\Users\Sabeshragav\Stack\Devops\maven\myfirstapp\target\classes;C:\Users\Sabeshragav\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Sabeshragav\AppData\Local\Temp\surefire16172207090151163225\surefirebooter-20250619081050046_3.jar C:\Users\Sabeshragav\AppData\Local\Temp\surefire16172207090151163225 2025-06-19T08-10-49_951-jvmRun1 surefire-20250619081050046_1tmp surefire_0-20250619081050046_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Sabeshragav\AppData\Local\Temp\surefire7354994786229195295\surefirebooter-20250619201052975_3.jar C:\Users\Sabeshragav\AppData\Local\Temp\surefire7354994786229195295 2025-06-19T20-10-52_799-jvmRun1 surefire-20250619201052975_1tmp surefire_0-20250619201052975_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstsimpleapp\target\test-classes;C:\Users\Sabeshragav\Stack\Devops\maven\myfirstsimpleapp\target\classes;C:\Users\Sabeshragav\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstapp\target\test-classes;C:\Users\Sabeshragav\Stack\Devops\maven\myfirstapp\target\classes;C:\Users\Sabeshragav\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Sabeshragav"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2024-10-15"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstsimpleapp"/>
+    <property name="basedir" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstapp"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Sabeshragav\AppData\Local\Temp\surefire16172207090151163225\surefirebooter-20250619081050046_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Sabeshragav\AppData\Local\Temp\surefire7354994786229195295\surefirebooter-20250619201052975_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.5+9-LTS-239"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\SABESH~1\AppData\Local\Temp\"/>
     <property name="java.version" value="21.0.5"/>
-    <property name="user.dir" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstsimpleapp"/>
+    <property name="user.dir" value="C:\Users\Sabeshragav\Stack\Devops\maven\myfirstapp"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testApp" classname="com.devops.example.AppTest" time="0.003"/>
+  <testcase name="testApp" classname="com.devops.example.AppTest" time="0.006"/>
 </testsuite>
